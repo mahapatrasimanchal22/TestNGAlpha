@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[mahapatra]]>
+    </line>
+    <line>
+      <![CDATA[simanchal]]>
+    </line>
+    <line>
+      <![CDATA[babuni]]>
+    </line>
+    <line>
+      <![CDATA[Chutki]]>
+    </line>
+    <line>
+      <![CDATA[sanhok]]>
+    </line>
+    <line>
+      <![CDATA[babuni]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[sanhok]]>
+    </line>
+    <line>
+      <![CDATA[babuni]]>
+    </line>
+    <line>
+      <![CDATA[Skha]]>
+    </line>
+    <line>
+      <![CDATA[sanhok]]>
+    </line>
+    <line>
+      <![CDATA[pochiki]]>
+    </line>
+    <line>
+      <![CDATA[militrybasearea]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2020-02-17T19:11:58Z" finished-at="2020-02-17T19:11:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2020-02-17T19:11:58Z" finished-at="2020-02-17T19:11:58Z">
+      <class name="Testing.TestNGAno">
+        <test-method status="PASS" signature="mahapatra()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="mahapatra" is-config="true" duration-ms="10" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mahapatra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mahapatra -->
+        <test-method status="PASS" signature="simanchal()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="simanchal" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[simanchal]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- simanchal -->
+        <test-method status="PASS" signature="babuni()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="babuni" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[babuni]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- babuni -->
+        <test-method status="PASS" signature="Chutki()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="Chutki" duration-ms="6" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chutki]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Chutki -->
+        <test-method status="PASS" signature="sanhok()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="sanhok" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[sanhok]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sanhok -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="Google" duration-ms="2" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="babuni()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="babuni" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[babuni]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- babuni -->
+        <test-method status="PASS" signature="sanhok()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="sanhok" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[sanhok]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sanhok -->
+        <test-method status="PASS" signature="babuni()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="babuni" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[babuni]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- babuni -->
+        <test-method status="PASS" signature="Sikha()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="Sikha" duration-ms="10" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Skha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sikha -->
+        <test-method status="PASS" signature="sanhok()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="sanhok" is-config="true" duration-ms="1" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[sanhok]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sanhok -->
+        <test-method status="PASS" signature="pochiki()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="pochiki" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[pochiki]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pochiki -->
+        <test-method status="PASS" signature="militrybasearea()[pri:0, instance:Testing.TestNGAno@14abbdc]" name="militrybasearea" is-config="true" duration-ms="0" started-at="2020-02-18T00:41:58Z" finished-at="2020-02-18T00:41:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[militrybasearea]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- militrybasearea -->
+      </class> <!-- Testing.TestNGAno -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
